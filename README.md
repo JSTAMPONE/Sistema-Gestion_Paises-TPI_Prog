@@ -22,4 +22,5 @@ Participante: Juan Ignacio Stampone
 - Implementación de funciones y validaciones
 - Documentación del proyecto
 
-Link al video explicativo:
+Link al repositorio: https://github.com/JSTAMPONE/Sistema-Gestion_Paises-TPI_Prog.git
+Link al video explicativo: https://youtu.be/EBxbcfdg2_k
